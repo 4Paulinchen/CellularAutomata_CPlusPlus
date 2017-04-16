@@ -1,3 +1,6 @@
+/* One Dimensional Cellular Automata"
+*/
+
 #include <stdio.h>
 #include <iostream>
 #include <vector>
