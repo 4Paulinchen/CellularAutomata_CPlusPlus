@@ -1,3 +1,4 @@
+## used for plotting output.txt
 import numpy as np
 import matplotlib.pyplot as plt
 fname = 'output.txt'
